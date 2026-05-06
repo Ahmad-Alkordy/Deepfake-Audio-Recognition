@@ -1,7 +1,3 @@
---- TECHNICAL_DOCUMENTATION.md (原始)
-
-
-+++ TECHNICAL_DOCUMENTATION.md (修改后)
 # Technical Documentation: Deepfake Audio Detection System
 
 ## Executive Summary
